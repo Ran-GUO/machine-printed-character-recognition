@@ -2,7 +2,7 @@
 PROJECT_GSE_GUO_BARRIGA_2020_2021
 Polytech Nice Sophia Antipolis
 
-# Embedded AI on FPGA using High Level Synthesis
+## Embedded AI on FPGA using High Level Synthesis
 
 Final year project for the specialization program in Embedded Systems Engineering.
 
