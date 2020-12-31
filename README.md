@@ -1,7 +1,10 @@
 # machine-printed-character-recognition
 PROJECT_GSE_GUO_BARRIGA_2020_2021
+
 GUO Ran
+
 BARRIGA Ponce de Leon Ricardo
+
 Polytech Nice Sophia Antipolis
 
 ## Embedded AI on FPGA using High Level Synthesis
