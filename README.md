@@ -27,9 +27,8 @@ https://www.youtube.com/watch?v=K3EwXGJWzeI&feature=youtu.be&fbclid=IwAR0BRoRfYf
   C
   ZedBoard platform
   SDsoc
-
+```
 # Command lines used in Ubuntu Terminal
-```
+
 To compile the project
-```
-  make && ./lenet_cnn_float
+```make && ./lenet_cnn_float
