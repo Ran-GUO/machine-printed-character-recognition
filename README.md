@@ -1,5 +1,7 @@
 # machine-printed-character-recognition
 PROJECT_GSE_GUO_BARRIGA_2020_2021
+GUO Ran
+BARRIGA Ponce de Leon Ricardo
 Polytech Nice Sophia Antipolis
 
 ## Embedded AI on FPGA using High Level Synthesis
@@ -17,7 +19,7 @@ The CNN we want to accelerate on FPGA using HLS is based on LeNet for handwritte
 https://www.youtube.com/watch?v=K3EwXGJWzeI&feature=youtu.be&fbclid=IwAR0BRoRfYfC3Q20iejlREfuPvoDNPbH7KSfbq8YA-VKav8VTYg0dE4dtjj8
 
 ## Prerequisite, compile and run
-
+```
   Ubuntu 18.04 / gcc 7.5.0
   TensorFlow and Keras for Deep Learning
   Python
@@ -27,7 +29,7 @@ https://www.youtube.com/watch?v=K3EwXGJWzeI&feature=youtu.be&fbclid=IwAR0BRoRfYf
   SDsoc
 
 # Command lines used in Ubuntu Terminal
-
+```
 To compile the project
-
+```
   make && ./lenet_cnn_float
