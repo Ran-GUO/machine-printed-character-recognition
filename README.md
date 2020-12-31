@@ -1,0 +1,2 @@
+# machine-printed-character-recognition
+PROJECT_GSE_GUO_BARRIGA_2020_2021
