@@ -31,4 +31,33 @@ https://www.youtube.com/watch?v=K3EwXGJWzeI&feature=youtu.be&fbclid=IwAR0BRoRfYf
 # Command lines used in Ubuntu Terminal
 
 To compile the project
-```make && ./lenet_cnn_float
+```
+  make && ./lenet_cnn_float
+```
+
+To run Vivado HLS
+```
+  xilinx_env_vivado18.2 
+  vivado_hls
+```
+
+To run SDSoC
+```
+  xilinx_env_sdx18.2
+  sdx
+```
+
+To Start Vivado(Energie analysis)
+```
+  xilinx_env_vivado18.2
+  vivado &
+```
+
+To Connect the board and the host PC
+```
+  sudo minicom -D /dev/ttyACM0 -b 115200
+  boot
+  mount /dev/mmcblk0p1 /media
+  cd /media
+  ./test
+```
