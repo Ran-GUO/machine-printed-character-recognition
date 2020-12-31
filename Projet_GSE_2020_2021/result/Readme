@@ -1,0 +1,4 @@
+apal : with pragma (HLS) with lenet (acceleration)
+spal : without pragma (HLS) with lenet (acceleration)
+apsl : with pragma (HLS) without lenet (acceleration)
+spsl : without pragma (HLS) without lenet (acceleration)
