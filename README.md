@@ -18,8 +18,15 @@ HLS, also referred to as C synthesis, electronic system-level (ESL) synthesis, a
 The CNN we want to accelerate on FPGA using HLS is based on LeNet for handwritten and machine-printed character recognition and the FPGA target is a ZedBoard platform featuring a Zynq-7000 SoC (ARM dual core Cortex-A9 / Xilinx FPGA).
 
 ## Demonstration video
-
+```
+YouTube
+```
 https://www.youtube.com/watch?v=K3EwXGJWzeI&feature=youtu.be&fbclid=IwAR0BRoRfYfC3Q20iejlREfuPvoDNPbH7KSfbq8YA-VKav8VTYg0dE4dtjj8
+
+```
+优酷
+```
+https://v.youku.com/v_show/id_XNTA5MjIyNjM2MA==.html
 
 ## Prerequisite, compile and run
 ```
